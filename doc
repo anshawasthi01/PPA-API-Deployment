@@ -1,0 +1,4 @@
+setup : npm init -y
+start : npm run dev
+deployment : https://render.com/
+localhost : localhost:3001
